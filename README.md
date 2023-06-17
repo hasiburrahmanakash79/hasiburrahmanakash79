@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/wLjRvkR/your-logo.png)]
+![MasterHead](https://i.ibb.co/wLjRvkR/your-logo.png)
 <h1 align="center">Hi 👋, I'm Hasibur Rahman Akash</h1>
 <h3 align="center">I am passionate web developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
