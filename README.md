@@ -6,9 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasiburrahmanakash79&label=Profile%20views&color=0e75b6&style=flat" alt="hasiburrahmanakash79" /> </p>
 
 - 🔭 I’m currently working on **Job Hunt**
-
 - 🌱 I’m currently learning **Next JS**
-
 - 📫 How to reach me **hasiburrahmanakash79@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
