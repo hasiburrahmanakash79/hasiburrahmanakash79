@@ -3,6 +3,41 @@
 <h1 align="left">Hey there, I'm Akash 👋</h1>
 <h4 align="center">I am a passionate web developer from Bangladesh.</h4>
 
+<div style="min-height:100vh; display:flex; justify-content:center; align-items:center; background-color:#475569;">
+  <div style="border:1px solid rgba(255,255,255,0.2); padding:1rem; width:33%; border-radius:1rem; background-color:rgba(255,255,255,0.15); color:white;">
+    <div style="display:flex; justify-content:space-between;">
+      <h1 style="font-size:2rem; text-transform:uppercase; font-weight:600; letter-spacing:0.1em;">
+        Hasibur Rahman Akash
+      </h1>
+      <img src="https://i.ibb.co/8zzhGcR/Logo.png" alt="" style="width:25%; opacity:0.2;">
+    </div>
+    <div style="display:flex; justify-content:space-between; align-items:end; margin-top:3.5rem;">
+      <div>
+        <h1 style="text-transform:uppercase; font-size:1.25rem; letter-spacing:0.1em; opacity:0.45;">
+          Web Developer
+        </h1>
+        <div style="display:flex; gap:0.75rem; align-items:center;">
+          <a href="mailto:hasiburrahmanakash79@gmail.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" alt="" style="height:1rem;">
+          </a>
+          <a href="fb" target="_blank" rel="noreferrer">
+            <img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/displaying-19-gallery-images-for-linkedin-logo-png-25.png" alt="" style="height:1.25rem;">
+          </a>
+          <a href="li" target="_blank" rel="noreferrer">
+            <img src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-icon-white-PNG-large-size.png" alt="" style="height:1rem;">
+          </a>
+          <p>/ hasiburRahmanAkash</p>
+        </div>
+      </div>
+      <div style="display:flex; align-items:center; gap:1rem;">
+        <img src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" alt="" style="height:1.5rem;">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="" style="height:1.5rem;">
+      </div>
+    </div>
+  </div>
+</div>
+
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hasiburrahmanakash79&label=Profile%20views&color=0e75b6&style=flat" alt="hasiburrahmanakash79" />
 </p>
