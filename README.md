@@ -1,6 +1,6 @@
 ![MasterHead](https://i.ibb.co/XZxfx6H/gitbanner.png)
 
-<h1 align="left">Hey there, I'm Akash 👋</h1>
+<h1 align="left">Hey, I'm Akash 👋</h1>
 <h4 align="center">I am a passionate web developer from Bangladesh.</h4>
 
 
