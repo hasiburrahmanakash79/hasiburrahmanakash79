@@ -17,7 +17,7 @@
 ---
 
 - 🔭 I’m currently working on **Job Hunt**
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **typeScript**
 - 📫 How to reach me **hasiburrahmanakash79@gmail.com**
 
 ---
