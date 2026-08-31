@@ -1,99 +1,147 @@
+<img src="https://i.ibb.co.com/B3RV5s2/Hasibur-Rahman-Akash.png" width="100%" />
 
-![MasterHead](https://i.ibb.co.com/B3RV5s2/Hasibur-Rahman-Akash.png)
+<h1 align="center">Hi, I'm Akash 👋</h1>
 
-<h1 align="left">Hey, I'm Akash 👋</h1>
-<h4 align="center">I am a passionate web developer from Bangladesh.</h4>
+<p align="center">
+  <strong>Frontend Developer · MERN Stack · UI/UX Enthusiast</strong>
+</p>
 
+<p align="center">
+  I build modern, responsive, and user-focused web applications
+  with clean code and thoughtful UI.
+</p>
+
+<p align="center">
+  <a href="mailto:hasiburrahmanakash79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-black?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hasiburrahmanakash79">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/hasiburrahmanakash79">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br />
+
+## 👨‍💻 About Me
+
+I'm a **Frontend Developer from Bangladesh** with 2+ years of experience building web applications.
+
+I enjoy transforming designs into **clean, responsive, and scalable interfaces** and connecting them with real-world APIs and backend services.
+
+* ⚛️ Specialized in **React.js**
+* 🧩 Experienced with **MERN Stack**
+* 🎨 Strong interest in **UI/UX & modern web design**
+* 🔌 Experienced with **REST APIs & third-party integrations**
+* 📱 Focused on **responsive & reusable interfaces**
+* 🌱 Currently learning **TypeScript**
+* 💼 Open to **Frontend / React.js opportunities**
+
+---
+
+## ⚡ Tech Stack
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hasiburrahmanakash79&label=Profile%20views&color=0e75b6&style=flat" alt="hasiburrahmanakash79" />
-</p>
 
-<div align="center">
-  <img align="left" alt="Coding Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=hasiburrahmanakash79&show_icons=true&theme=radical" />
-  <img align="right" alt="Top Languages" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasiburrahmanakash79&layout=compact" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,figma,postman,vscode" />
 
----
-
-- 🔭 I’m currently working on **Job Hunt**
-- 🌱 I’m currently learning **typeScript**
-- 📫 How to reach me **hasiburrahmanakash79@gmail.com**
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/@hasiburrakash79" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hasiburrakash79" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/hasiburrahmanakash79" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasiburrahmanakash79" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/hasiburrahmanakash79" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasiburrahmanakash79" height="30" width="40" />
-  </a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+## 🧠 What I Work With
+
+| Area               | Technologies                         |
+| ------------------ | ------------------------------------ |
+| **Frontend**       | React.js, JavaScript, HTML5, CSS3    |
+| **Styling**        | Tailwind CSS, Bootstrap              |
+| **Backend**        | Node.js, Express.js                  |
+| **Database**       | MongoDB                              |
+| **API**            | REST APIs, Axios                     |
+| **Authentication** | JWT, Firebase                        |
+| **Payment**        | Stripe                               |
+| **Tools**          | Git, GitHub, Figma, Postman, VS Code |
+
+---
+
+## 🚀 Featured Work
+
+### 🛍️ LOKL
+
+A modern marketplace platform with product management, marketplace features, admin dashboard and API integration.
+
+**Tech:** React.js · Tailwind CSS · REST API
+
+---
+
+### 💳 DiscountForge
+
+A modern web application focused on discount and offer management with a responsive user interface.
+
+**Tech:** React.js · Tailwind CSS · REST API
+
+---
+
+### 📍 Evola
+
+An event/location-based platform with modern UI, responsive layouts and backend integration.
+
+**Tech:** React.js · Node.js · MongoDB
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hasiburrahmanakash79&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasiburrahmanakash79&layout=compact&hide_border=true&theme=transparent"
+    height="165"
+  />
+</p>
+
+---
+
+## 🎯 Currently
+
+```text
+Building     → Modern React Applications
+Learning     → TypeScript & Advanced Frontend Patterns
+Improving    → UI/UX, Performance & Clean Architecture
+Looking for  → Exciting Frontend Opportunities
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:hasiburrahmanakash79@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/hasiburrahmanakash79">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/hasiburrahmanakash79">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hasiburrahmanakash79&label=Profile%20Views&color=grey&style=flat-square" />
+</p>
+
+<p align="center">
+  <i>“Build clean. Learn continuously. Create with purpose.”</i>
 </p>
