@@ -38,86 +38,44 @@
 <br />
 
 <h2 align="center">🛠️ Tech Stack</h2>
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Frameworks / Libraries</th>
+      <th>Tools & Platforms</th>
+    </tr>
+  </thead>
 
-<tbody>
-  <!-- Languages -->
-  <tr>
-    <td align="center">
-      <strong>Languages</strong>
-    </td>
-    <td align="center">
-      <strong>Frameworks & Libraries</strong>
-    </td>
-    <td align="center">
-      <strong>Tools & Platforms</strong>
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center">
+        <kbd>JavaScript</kbd>
+        <kbd>TypeScript</kbd>
+        <kbd>HTML5</kbd>
+        <kbd>CSS3</kbd>
+      </td>
 
-  <tr>
-    <td align="center">
-      <kbd>JavaScript</kbd>
-      <kbd>TypeScript</kbd>
-      <kbd>HTML5</kbd>
-      <kbd>CSS3</kbd>
-    </td>
+      <td align="center">
+        <kbd>React</kbd>
+        <kbd>Next.js</kbd>
+        <kbd>Node.js</kbd>
+        <kbd>Express.js</kbd>
+        <kbd>Tailwind CSS</kbd>
+        <kbd>Bootstrap</kbd>
+      </td>
 
-    <td align="center">
-      <kbd>React</kbd>
-      <kbd>Next.js</kbd>
-      <kbd>Node.js</kbd>
-      <kbd>Express.js</kbd>
-      <kbd>Tailwind CSS</kbd>
-      <kbd>Bootstrap</kbd>
-    </td>
-
-    <td align="center">
-      <kbd>Git</kbd>
-      <kbd>GitHub</kbd>
-      <kbd>Figma</kbd>
-      <kbd>Postman</kbd>
-      <kbd>VS Code</kbd>
-      <kbd>Vercel</kbd>
-    </td>
-  </tr>
-
-  <!-- Additional -->
-  <tr>
-    <td align="center">
-      <strong>Database & Backend</strong>
-    </td>
-    <td align="center">
-      <strong>Libraries & Integration</strong>
-    </td>
-    <td align="center">
-      <strong>Other</strong>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <kbd>MongoDB</kbd>
-      <kbd>MySQL</kbd>
-      <kbd>Firebase</kbd>
-    </td>
-
-    <td align="center">
-      <kbd>Axios</kbd>
-      <kbd>JWT</kbd>
-      <kbd>Stripe</kbd>
-      <kbd>Recharts</kbd>
-      <kbd>Framer Motion</kbd>
-    </td>
-
-    <td align="center">
-      <kbd>REST API</kbd>
-      <kbd>Responsive Design</kbd>
-      <kbd>Jira</kbd>
-      <kbd>npm</kbd>
-    </td>
-  </tr>
-</tbody>
-
-
+      <td align="center">
+        <kbd>Git</kbd>
+        <kbd>GitHub</kbd>
+        <kbd>Figma</kbd>
+        <kbd>Postman</kbd>
+        <kbd>VS Code</kbd>
+        <kbd>Vercel</kbd>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <br />
 
 <table align="center" width="100%">
