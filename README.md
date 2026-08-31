@@ -55,7 +55,6 @@
         <kbd>HTML5</kbd>
         <kbd>CSS3</kbd>
       </td>
-
       <td align="center">
         <kbd>React</kbd>
         <kbd>Next.js</kbd>
@@ -64,7 +63,6 @@
         <kbd>Tailwind CSS</kbd>
         <kbd>Bootstrap</kbd>
       </td>
-
       <td align="center">
         <kbd>Git</kbd>
         <kbd>GitHub</kbd>
