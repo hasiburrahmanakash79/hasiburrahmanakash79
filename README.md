@@ -112,7 +112,7 @@
       style="border: none; padding: 20px 0 20px 20px;"
     >
       <img
-        src="https://i.ibb.co.com/JjktpWKg/hasibur-rahman-akash.png"
+        src="https://i.ibb.co.com/C3vj1p92/hasibur-Akash.png"
         alt="Hasibur Rahman Akash"
         width="320"
       />
