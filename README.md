@@ -50,22 +50,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="70%" align="center">
-      <h3>📊 GitHub Overview</h3>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasiburrahmanakash79&theme=tokyonight"
-        alt="GitHub Overview"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
+    <td width="33.3%" align="center">
       <h3>💻 Languages by Repository</h3>
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasiburrahmanakash79&theme=tokyonight"
@@ -73,11 +58,19 @@
         width="100%"
       />
     </td>
-    <td width="50%" align="center">
+    <td width="33.3%" align="center">
       <h3>🔥 Languages by Commit</h3>
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasiburrahmanakash79&theme=tokyonight"
         alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
+    <td width="33.3%" align="center">
+      <h3>📊 GitHub Overview</h3>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasiburrahmanakash79&theme=tokyonight"
+        alt="GitHub Overview"
         width="100%"
       />
     </td>
