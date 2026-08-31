@@ -40,47 +40,78 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <tbody>
+  <!-- Languages -->
   <tr>
     <td align="center">
-      <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>JavaScript</kbd>
+      <strong>Languages</strong>
+    </td>
+    <td align="center">
+      <strong>Frameworks & Libraries</strong>
+    </td>
+    <td align="center">
+      <strong>Tools & Platforms</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <kbd>JavaScript</kbd>
       <kbd>TypeScript</kbd>
+      <kbd>HTML5</kbd>
+      <kbd>CSS3</kbd>
     </td>
+
     <td align="center">
-      <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Node.js</kbd>
+      <kbd>React</kbd>
+      <kbd>Next.js</kbd>
+      <kbd>Node.js</kbd>
       <kbd>Express.js</kbd>
+      <kbd>Tailwind CSS</kbd>
+      <kbd>Bootstrap</kbd>
     </td>
-    <td align="center">
-      <kbd>MongoDB</kbd> <kbd>MySQL</kbd> <kbd>Firebase</kbd>
-      <kbd>REST API</kbd>
-    </td>
-  </tr>
 
-  <tr>
     <td align="center">
-      <kbd>Tailwind CSS</kbd> <kbd>Bootstrap</kbd>
-      <kbd>daisyUI</kbd> <kbd>Framer Motion</kbd>
-    </td>
-    <td align="center">
-      <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Docker</kbd>
-      <kbd>Linux</kbd>
-    </td>
-    <td align="center">
-      <kbd>Vercel</kbd> <kbd>Postman</kbd>
+      <kbd>Git</kbd>
+      <kbd>GitHub</kbd>
+      <kbd>Figma</kbd>
+      <kbd>Postman</kbd>
       <kbd>VS Code</kbd>
+      <kbd>Vercel</kbd>
+    </td>
+  </tr>
+
+  <!-- Additional -->
+  <tr>
+    <td align="center">
+      <strong>Database & Backend</strong>
+    </td>
+    <td align="center">
+      <strong>Libraries & Integration</strong>
+    </td>
+    <td align="center">
+      <strong>Other</strong>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <kbd>JWT</kbd> <kbd>Axios</kbd> <kbd>Stripe</kbd>
-      <kbd>Authentication</kbd>
+      <kbd>MongoDB</kbd>
+      <kbd>MySQL</kbd>
+      <kbd>Firebase</kbd>
     </td>
+
     <td align="center">
-      <kbd>Responsive Design</kbd> <kbd>REST APIs</kbd>
-      <kbd>API Integration</kbd>
+      <kbd>Axios</kbd>
+      <kbd>JWT</kbd>
+      <kbd>Stripe</kbd>
+      <kbd>Recharts</kbd>
+      <kbd>Framer Motion</kbd>
     </td>
+
     <td align="center">
-      <kbd>Recharts</kbd> <kbd>Redux</kbd> <kbd>Jira</kbd>
+      <kbd>REST API</kbd>
+      <kbd>Responsive Design</kbd>
+      <kbd>Jira</kbd>
       <kbd>npm</kbd>
     </td>
   </tr>
