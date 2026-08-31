@@ -1,20 +1,42 @@
-<p align="center">
-  <img src="https://i.ibb.co.com/B3RV5s2/Hasibur-Rahman-Akash.png" alt="Hasibur Rahman Akash" width="100%" />
-</p>
-
-<h1 align="center">Hey 👋, I'm Hasibur Rahman Akash</h1>
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <strong>Frontend Developer | MERN Stack Developer</strong>
+  <img
+    src="https://i.ibb.co.com/B3RV5s2/Hasibur-Rahman-Akash.png"
+    alt="Hasibur Rahman Akash"
+    width="100%"
+  />
 </p>
 
+<h1 align="center">
+  Hey 👋, I'm Hasibur Rahman Akash
+</h1>
+
+<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasiburrahmanakash79&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hasiburrahmanakash79?label=Followers&style=flat" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/hasiburrahmanakash79?label=Stars&style=flat" alt="Stars" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;MERN+Stack+Developer;UI%2FUX+Enthusiast"
+    alt="Typing Animation"
+  />
 </p>
-
+<!-- ===================== PROFILE INFO ===================== -->
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=hasiburrahmanakash79&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/hasiburrahmanakash79?label=Followers&style=flat"
+    alt="Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/hasiburrahmanakash79?label=Stars&style=flat"
+    alt="Stars"
+  />
+</p>
 <br />
+
+<!-- ===================== GITHUB STATS ===================== -->
 
 <table align="center" width="100%">
   <tr>
@@ -34,8 +56,11 @@
     </td>
   </tr>
 </table>
-
 <br />
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <table align="center" width="100%">
   <thead>
@@ -45,13 +70,13 @@
       <th>Tools & Platforms</th>
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <td align="center" width="33.3%">
         <kbd>JavaScript</kbd>
         <kbd>TypeScript</kbd>
         <kbd>HTML5</kbd>
+        <kbd>CSS3</kbd>
       </td>
       <td align="center" width="33.3%">
         <kbd>React</kbd>
@@ -59,19 +84,97 @@
         <kbd>Node.js</kbd>
         <kbd>Express.js</kbd>
         <kbd>Tailwind CSS</kbd>
+        <kbd>Bootstrap</kbd>
+        <kbd>Framer Motion</kbd>
+        <kbd>Recharts</kbd>
       </td>
       <td align="center" width="33.3%">
         <kbd>Git</kbd>
         <kbd>GitHub</kbd>
         <kbd>Postman</kbd>
         <kbd>VS Code</kbd>
+        <kbd>Figma</kbd>
         <kbd>Vercel</kbd>
+        <kbd>Jira</kbd>
+        <kbd>Docker</kbd>
+        <kbd>Linux</kbd>
       </td>
     </tr>
   </tbody>
 </table>
+
 <br />
 
+<!-- ===================== DATABASE & SERVICES ===================== -->
+
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th>Database</th>
+      <th>API & Authentication</th>
+      <th>Services & Integration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <kbd>MongoDB</kbd>
+        <kbd>MySQL</kbd>
+        <kbd>MongoDB Compass</kbd>
+      </td>
+      <td align="center">
+        <kbd>REST API</kbd>
+        <kbd>Axios</kbd>
+        <kbd>JWT</kbd>
+        <kbd>Firebase Auth</kbd>
+      </td>
+      <td align="center">
+        <kbd>Stripe</kbd>
+        <kbd>Firebase</kbd>
+        <kbd>Vercel</kbd>
+        <kbd>npm</kbd>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+<!-- ===================== GITHUB ACTIVITY ===================== -->
+
+<h2 align="center">📈 Contribution Activity</h2>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hasiburrahmanakash79&theme=tokyo-night&hide_border=true&area=true&height=280"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
+</p>
+<br />
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="./assets/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
+<br />
+
+<!-- ===================== GITHUB OVERVIEW ===================== -->
 <table align="center" width="100%">
   <tr>
     <td width="33.3%" align="center">
@@ -103,9 +206,14 @@
 
 <br />
 
+<!-- ===================== SOCIAL LINKS ===================== -->
 
+<h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
-  <a href="https://www.facebook.com/hasiburrahmanakash79" target="_blank">
+  <a
+    href="https://www.facebook.com/hasiburrahmanakash79"
+    target="_blank"
+  >
     <img
       src="https://cdn.pixabay.com/photo/2021/06/15/12/51/facebook-6338509_640.png"
       alt="Facebook"
@@ -113,9 +221,11 @@
       height="32"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/hasiburrahmanakash79" target="_blank">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a
+    href="https://linkedin.com/in/hasiburrahmanakash79"
+    target="_blank"
+  >
     <img
       src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png"
       alt="LinkedIn"
@@ -123,9 +233,11 @@
       height="33"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://x.com/hasiburrakash79" target="_blank">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a
+    href="https://x.com/hasiburrakash79"
+    target="_blank"
+  >
     <img
       src="https://static.freepnglogo.com/images/all_img/1725374683twitter-x-logo.png"
       alt="X"
@@ -133,17 +245,25 @@
       height="32"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:hasiburrahmanakash79@gmail.com">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a
+    href="mailto:hasiburrahmanakash79@gmail.com"
+  >
     <img
       src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"
       alt="Email"
+      width="32"
       height="32"
     />
   </a>
 </p>
+<br />
+
+<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=100&section=footer" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=100&section=footer"
+    width="100%"
+  />
 </p>
