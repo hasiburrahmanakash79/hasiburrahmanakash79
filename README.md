@@ -9,11 +9,14 @@
 </p>
 
 <!-- ===================== PROFILE INTRO ===================== -->
-
-<table width="100%">
-  <tr>
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
     <!-- ===================== LEFT SIDE ===================== -->
-    <td width="70%" align="left">
+    <td
+      width="70%"
+      align="left"
+      style="border: none; padding: 20px 20px 20px 0;"
+    >
       <h1>
         Hey 👋, I'm Hasibur Rahman Akash
       </h1>
@@ -23,6 +26,19 @@
           src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=false&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;MERN+Stack+Developer"
           alt="Typing Animation"
         />
+      </p>
+      <!-- ===================== DESCRIPTION ===================== -->
+      <p>
+        I'm a passionate Frontend Developer from Bangladesh with a strong
+        focus on building modern, responsive, and user-friendly web
+        applications. I specialize in React.js and the MERN stack, turning
+        ideas and designs into clean, scalable, and high-quality digital
+        experiences.
+      </p>
+      <p>
+        I enjoy solving real-world problems, creating reusable UI components,
+        integrating REST APIs, and continuously learning new technologies to
+        improve my development skills.
       </p>
       <!-- ===================== PROFILE INFO ===================== -->
       <p>
@@ -39,61 +55,62 @@
           alt="Stars"
         />
       </p>
-
-     
-
-<p>
-  <a
-    href="https://www.facebook.com/hasiburrahmanakash79"
-    target="_blank"
-  >
-    <img
-      src="https://cdn.pixabay.com/photo/2021/06/15/12/51/facebook-6338509_640.png"
-      alt="Facebook"
-      width="32"
-      height="32"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a
-    href="https://linkedin.com/in/hasiburrahmanakash79"
-    target="_blank"
-  >
-    <img
-      src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png"
-      alt="LinkedIn"
-      width="33"
-      height="33"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a
-    href="https://x.com/hasiburrakash79"
-    target="_blank"
-  >
-    <img
-      src="https://static.freepnglogo.com/images/all_img/1725374683twitter-x-logo.png"
-      alt="X"
-      width="32"
-      height="32"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a
-    href="mailto:hasiburrahmanakash79@gmail.com"
-  >
-    <img
-      src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"
-      alt="Email"
-      width="32"
-      height="32"
-    />
-  </a>
-
-</p>
+      <!-- ===================== SOCIAL LINKS ===================== -->
+      <p>
+        <a
+          href="https://www.facebook.com/hasiburrahmanakash79"
+          target="_blank"
+        >
+          <img
+            src="https://cdn.pixabay.com/photo/2021/06/15/12/51/facebook-6338509_640.png"
+            alt="Facebook"
+            width="32"
+            height="32"
+          />
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a
+          href="https://linkedin.com/in/hasiburrahmanakash79"
+          target="_blank"
+        >
+          <img
+            src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png"
+            alt="LinkedIn"
+            width="33"
+            height="33"
+          />
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a
+          href="https://x.com/hasiburrakash79"
+          target="_blank"
+        >
+          <img
+            src="https://static.freepnglogo.com/images/all_img/1725374683twitter-x-logo.png"
+            alt="X"
+            width="32"
+            height="32"
+          />
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a
+          href="mailto:hasiburrahmanakash79@gmail.com"
+        >
+          <img
+            src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"
+            alt="Email"
+            width="32"
+            height="32"
+          />
+        </a>
+      </p>
     </td>
     <!-- ===================== RIGHT SIDE ===================== -->
-    <td width="30%" align="center">
+    <td
+      width="30%"
+      align="center"
+      style="border: none; padding: 20px 0 20px 20px;"
+    >
       <img
         src="https://i.ibb.co.com/JjktpWKg/hasibur-rahman-akash.png"
         alt="Hasibur Rahman Akash"
@@ -102,6 +119,8 @@
     </td>
   </tr>
 </table>
+
+<br />
 
 <br />
 
