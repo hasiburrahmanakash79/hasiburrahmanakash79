@@ -39,12 +39,53 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,firebase,git,github,figma,postman,vscode&perline=9&size=45"
-    alt="Tech Stack"
-  />
-</p>
+<tbody>
+  <tr>
+    <td align="center">
+      <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>JavaScript</kbd>
+      <kbd>TypeScript</kbd>
+    </td>
+    <td align="center">
+      <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Node.js</kbd>
+      <kbd>Express.js</kbd>
+    </td>
+    <td align="center">
+      <kbd>MongoDB</kbd> <kbd>MySQL</kbd> <kbd>Firebase</kbd>
+      <kbd>REST API</kbd>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <kbd>Tailwind CSS</kbd> <kbd>Bootstrap</kbd>
+      <kbd>daisyUI</kbd> <kbd>Framer Motion</kbd>
+    </td>
+    <td align="center">
+      <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Docker</kbd>
+      <kbd>Linux</kbd>
+    </td>
+    <td align="center">
+      <kbd>Vercel</kbd> <kbd>Postman</kbd>
+      <kbd>VS Code</kbd>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <kbd>JWT</kbd> <kbd>Axios</kbd> <kbd>Stripe</kbd>
+      <kbd>Authentication</kbd>
+    </td>
+    <td align="center">
+      <kbd>Responsive Design</kbd> <kbd>REST APIs</kbd>
+      <kbd>API Integration</kbd>
+    </td>
+    <td align="center">
+      <kbd>Recharts</kbd> <kbd>Redux</kbd> <kbd>Jira</kbd>
+      <kbd>npm</kbd>
+    </td>
+  </tr>
+</tbody>
+
 
 <br />
 
