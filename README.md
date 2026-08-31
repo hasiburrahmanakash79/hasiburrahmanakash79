@@ -48,13 +48,13 @@
 
   <tbody>
     <tr>
-      <td align="center">
+      <td align="center" width="33.3%">
         <kbd>JavaScript</kbd>
         <kbd>TypeScript</kbd>
         <kbd>HTML5</kbd>
         <kbd>CSS3</kbd>
       </td>
-      <td align="center">
+      <td align="center" width="33.3%">
         <kbd>React</kbd>
         <kbd>Next.js</kbd>
         <kbd>Node.js</kbd>
@@ -62,7 +62,7 @@
         <kbd>Tailwind CSS</kbd>
         <kbd>Bootstrap</kbd>
       </td>
-      <td align="center">
+      <td align="center" width="33.3%">
         <kbd>Git</kbd>
         <kbd>GitHub</kbd>
         <kbd>Figma</kbd>
