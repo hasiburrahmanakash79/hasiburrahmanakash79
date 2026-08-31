@@ -20,7 +20,7 @@
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=hasiburrahmanakash79&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        src="https://github-stats-extended.vercel.app/api?username=hasiburrahmanakash79&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
         alt="GitHub Stats"
         width="100%"
       />
