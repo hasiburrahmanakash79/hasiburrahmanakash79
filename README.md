@@ -58,10 +58,6 @@
 </table>
 <br />
 
-<!-- ===================== TECH STACK ===================== -->
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
 <table align="center" width="100%">
   <thead>
     <tr>
@@ -140,40 +136,6 @@
 
 <br />
 
-<!-- ===================== GITHUB ACTIVITY ===================== -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hasiburrahmanakash79&theme=tokyo-night&hide_border=true&area=true&height=280"
-    alt="GitHub Contribution Activity"
-    width="100%"
-  />
-</p>
-<br />
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./assets/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./assets/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="./assets/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
-</p>
-<br />
-
 <!-- ===================== GITHUB OVERVIEW ===================== -->
 <table align="center" width="100%">
   <tr>
@@ -203,12 +165,9 @@
     </td>
   </tr>
 </table>
-
 <br />
 
 <!-- ===================== SOCIAL LINKS ===================== -->
-
-<h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
   <a
     href="https://www.facebook.com/hasiburrahmanakash79"
