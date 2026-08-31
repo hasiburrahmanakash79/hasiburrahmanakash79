@@ -51,14 +51,6 @@
 <table align="center" width="100%">
   <tr>
     <td width="70%" align="center">
-      <h3>📈 Contribution Activity</h3>
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=hasiburrahmanakash79&theme=tokyo-night&hide_border=true&area=true&height=280"
-        alt="Contribution Activity"
-        width="100%"
-      />
-    </td>
-    <td width="30%" align="center">
       <h3>📊 GitHub Overview</h3>
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasiburrahmanakash79&theme=tokyonight"
