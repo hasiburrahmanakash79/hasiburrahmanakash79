@@ -78,7 +78,15 @@
 <table align="center" width="100%">
   <tr>
     <td width="33.3%" align="center">
-      <h3>💻 Languages by Repository</h3>
+      <h3>GitHub Overview</h3>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasiburrahmanakash79&theme=tokyonight"
+        alt="GitHub Overview"
+        width="100%"
+      />
+    </td>
+    <td width="33.3%" align="center">
+      <h3>Languages by Repository</h3>
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasiburrahmanakash79&theme=tokyonight"
         alt="Languages by Repository"
@@ -86,18 +94,10 @@
       />
     </td>
     <td width="33.3%" align="center">
-      <h3>🔥 Languages by Commit</h3>
+      <h3>Languages by Commit</h3>
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasiburrahmanakash79&theme=tokyonight"
         alt="Languages by Commit"
-        width="100%"
-      />
-    </td>
-    <td width="33.3%" align="center">
-      <h3>📊 GitHub Overview</h3>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasiburrahmanakash79&theme=tokyonight"
-        alt="GitHub Overview"
         width="100%"
       />
     </td>
@@ -106,21 +106,46 @@
 
 <br />
 
-<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
+  <a href="https://www.facebook.com/hasiburrahmanakash79" target="_blank">
+    <img
+      src="https://cdn.pixabay.com/photo/2021/06/15/12/51/facebook-6338509_640.png"
+      alt="Facebook"
+      width="32"
+      height="32"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/hasiburrahmanakash79" target="_blank">
+    <img
+      src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png"
+      alt="LinkedIn"
+      width="33"
+      height="33"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/hasiburrakash79" target="_blank">
+    <img
+      src="https://static.freepnglogo.com/images/all_img/1725374683twitter-x-logo.png"
+      alt="X"
+      width="32"
+      height="32"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:hasiburrahmanakash79@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/hasiburrahmanakash79">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/hasiburrahmanakash79">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"
+      alt="Email"
+      height="32"
+    />
   </a>
 </p>
-
-<br />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=100&section=footer" width="100%" />
