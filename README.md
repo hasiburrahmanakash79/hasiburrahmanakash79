@@ -22,7 +22,7 @@
       style="border: none; padding: 20px 20px 20px 0;"
     >
       <h1>
-        Hey👋
+        Hey 👋, I'm Hasibur Rahman Akash
       </h1>
       <!-- ===================== TYPING ANIMATION ===================== -->
       <p>
