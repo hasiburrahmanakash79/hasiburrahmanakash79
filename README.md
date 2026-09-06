@@ -1,12 +1,16 @@
 <!-- ===================== HEADER ===================== -->
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://i.ibb.co.com/B3RV5s2/Hasibur-Rahman-Akash.png"
     alt="Hasibur Rahman Akash"
     width="100%"
   />
-</p>
+</p> -->
+
+<a href="https://www.facebook.com">
+<img src="./images/cover.svg" alt="Cover" width="100%" />
+</a>
 
 <!-- ===================== PROFILE INTRO ===================== -->
 <table width="100%" style="border: none; border-collapse: collapse;">
