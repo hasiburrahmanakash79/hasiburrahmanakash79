@@ -22,7 +22,7 @@
       style="border: none; padding: 20px 20px 20px 0;"
     >
       <h1>
-        Hey 👋, I'm Hasibur Rahman Akash
+        Hey👋
       </h1>
       <!-- ===================== TYPING ANIMATION ===================== -->
       <p>
@@ -68,8 +68,8 @@
           <img
             src="https://cdn.pixabay.com/photo/2021/06/15/12/51/facebook-6338509_640.png"
             alt="Facebook"
-            width="32"
-            height="32"
+            width="28"
+            height="28"
           />
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;
@@ -103,8 +103,7 @@
           <img
             src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"
             alt="Email"
-            width="32"
-            height="32"
+            height="27"
           />
         </a>
       </p>
