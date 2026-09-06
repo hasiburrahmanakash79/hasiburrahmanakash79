@@ -9,7 +9,7 @@
 </p> -->
 
 <a href="https://www.facebook.com">
-<img src="./images/cover.svg" alt="Cover" width="100%" />
+<img src="./images/coverWave.svg" alt="Cover" width="100%" />
 </a>
 
 <!-- ===================== PROFILE INTRO ===================== -->
