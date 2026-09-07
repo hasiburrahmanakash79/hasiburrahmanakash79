@@ -8,7 +8,7 @@
   />
 </p> -->
 
-<a href="https://www.facebook.com/HasiburP.Akash">
+<a href="https://www.facebook.com/HasiburP.Akash" target="_blank">
 <img src="./images/coverWave.svg" alt="Cover" width="100%" />
 </a>
 
